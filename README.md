@@ -34,11 +34,6 @@ Tracing, logs, metrics, and repeatable environments matter more to me than cleve
 - I prefer explicit tradeoffs, concrete interfaces, and systems that can be debugged by someone other than the original author.
 - I am most useful where product ambiguity, technical depth, and execution pressure overlap.
 
-## Follow My Work
-
-- GitHub: [@kssd](https://github.com/kssd)
-- Email: [kunwar.sangram@gmail.com](mailto:kunwar.sangram@gmail.com)
-
 ## Activity Snapshot
 
 <p align="left">
