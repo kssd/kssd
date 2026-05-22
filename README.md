@@ -1,38 +1,33 @@
 # Kunwar Sangram Singh
 
-I build AI-native systems, engineering workflows, and production-minded infrastructure.
-I care about clear specs, reliable execution, and software that holds up outside demos.
-
-This is where I share the public edge of my work across agentic workflows, model-tool interfaces, and operationally sound systems.
+I build AI-native systems, agentic workflows, and infrastructure that holds up in production.
+My focus is on the gap between a model that can do something and a system that reliably does it.
 
 ## What I Work On
 
-- Agentic engineering workflows, spec-driven development, and systems that help teams move from intent to implementation with less ambiguity.
-- MCP servers, prompt and context systems, and practical interfaces between language models, tools, and real-world data.
-- Cloud, observability, and local-to-production infrastructure with an emphasis on repeatability, debugging, and operational clarity.
+- Spec-driven agentic pipelines — turning intent into implementable steps with enough structure to catch failures early
+- MCP servers and context systems — practical interfaces between language models, tools, and real-world data
+- Cloud and observability infrastructure — tracing, repeatable environments, and stacks that are debuggable under pressure
 
 ## Current Technical Themes
 
-### AI Systems That Can Actually Be Trusted
+### Grounded AI Systems
 
-I am interested in systems where models are not left to improvise over critical facts.
-That usually means deterministic tooling, clear interfaces, source-grounded outputs, and enough structure to make failure modes visible.
+Models improvise when they lack context. I build around that: deterministic tooling, source-grounded retrieval, explicit interfaces, and failure modes that are visible rather than silent.
 
-### Developer Experience With Less Hand-Waving
+### Specification as Engineering
 
-I care about reducing the gap between "we have an idea" and "this is implementable."
-That includes better specs, better feedback loops, and workflows that make AI assistance more disciplined instead of more chaotic.
+Most AI-assisted development breaks at the handoff between idea and implementation. Better specs, tighter feedback loops, and disciplined workflows make the handoff explicit instead of implicit.
 
-### Infrastructure You Can Reason About
+### Infrastructure You Can Operate
 
-I like stacks that are observable by default and simple enough to operate under pressure.
-Tracing, logs, metrics, and repeatable environments matter more to me than clever abstractions.
+Observability by default. Simple enough to reason about at 2am. I care more about tracing and repeatability than clever abstractions.
 
 ## How I Work
 
-- I optimize for clarity before speed-for-speed's-sake.
-- I prefer explicit tradeoffs, concrete interfaces, and systems that can be debugged by someone other than the original author.
-- I am most useful where product ambiguity, technical depth, and execution pressure overlap.
+- Clarity first. Speed follows from clear interfaces, not the other way around.
+- Explicit tradeoffs over implicit assumptions.
+- I work best where product ambiguity, technical depth, and execution pressure overlap — and someone needs to translate between them.
 
 ## Activity Snapshot
 
