@@ -23,6 +23,18 @@ Most AI-assisted development breaks at the handoff between idea and implementati
 
 Observability by default. Simple enough to reason about at 2am. I care more about tracing and repeatability than clever abstractions.
 
+## Now
+
+Building an AI infrastructure layer — the plumbing that makes agentic systems operable at scale:
+
+- **Federated MCP gateway** — actions router with a thin IAM layer for agent registration and qualification (OAuth 2.1, OBO flows)
+- **Decision trace observability** — capturing the full reasoning trail, not just inputs and outputs
+- **Lakehouse for agentic data** — mining structured signal from SOR systems to ground agent decisions
+- **K8s-based orchestration** — continuous tasks, long-horizon workflows, and on-demand workloads under one scheduler
+- **Local AI gateway** — routing to cloud-hosted OSS models for cost and latency optimization
+
+OSS vs managed is still an open decision.
+
 ## How I Work
 
 - Clarity first. Speed follows from clear interfaces, not the other way around.
